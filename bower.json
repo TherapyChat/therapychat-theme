@@ -1,0 +1,41 @@
+{
+  "name": "therapychat-theme",
+  "description": "TherapyChat theme",
+  "version": "1.0.0",
+  "authors": [
+    "TherapyChat.com team",
+    "Alberto Fernández <alberto.fernandez@nc43tech.com>",
+    "Miguel del Mazo <miguel.delmazo@nc43tech.com>",
+    "Rafael García <rafael.garcia@therapychat.com>"
+  ],
+  "dependencies": {
+    "polymer": "^1.9.0"
+  },
+  "homepage": "https://github.com/TherapyChat/therapychat-theme",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "theme"
+  ],
+  "license": "Apache License 2.0",
+  "main": [
+    "therapychat-theme.html"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "demo",
+    "test"
+  ],
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TherapyChat/therapychat-theme.git"
+  },
+  "devDependencies": {
+    "web-component-tester": "^6.0.0"
+  }
+}
